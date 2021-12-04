@@ -3,6 +3,7 @@ description: 'Create Java project in Eclipse '
 template:
   repo: create-java-project-in-eclipse-template
   name: create-java-project-in-eclipse
+  description: 'Create project, package, class in Eclipse. '
 before:
   - type: createIssue
     title: Welcome!
